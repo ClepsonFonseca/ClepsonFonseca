@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clepsonfonseca&repo=github-readme-stats)](https://github.com/clepsonfonseca/github-readme-stats)
-

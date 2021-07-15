@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Clepson Fonseca GitHub Status](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
+![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
 

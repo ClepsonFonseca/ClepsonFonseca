@@ -12,24 +12,6 @@
 
 🌎Encontre-me no LinkedIn: https://www.linkedin.com/in/clepson-fonseca-8b2323184/
 
-
-<!--
-**clepsonfonseca/clepsonfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clepsonfonseca)](https://github.com/clepsonfonseca/github-readme-stats)      ![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
-
 <hr>
 
 <h3 align="center">Linguagens e Tecnologias:</h3>
@@ -45,6 +27,10 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clepsonfonseca)](https://github.com/clepsonfonseca/github-readme-stats)      ![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
+
+
 
 
 

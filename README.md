@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/clepsonfonseca/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clepsonfonseca&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/clepsonfonseca/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clepsonfonseca&repo=convoychat" />
+</a>
+
 ![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)

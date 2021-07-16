@@ -1,16 +1,16 @@
-## Olá sou Clepson Fonseca 🚀 👋
+## Olá sou Clepson Fonseca 👋
 
 <h1 align="center">Clepson Fonseca!</h1>
 
-🥇Graduando em Gestão de Tecnologia da Informação pela Universidade Paulista - UNIP - Belém-PA 🇧🇷
+🥇 Graduado em Gestão de Tecnologia da Informação 🇧🇷
 
-📱 Estou participando do programa de bolsa do **Hiring Coders #2 da VTEX / Gama Academy**
+📱 Estou participando do programa de bolsas do **Hiring Coders #2 da VTEX | Gama Academy**
 
-⏳Atualmente aprendendo React.js
+⏳ Atualmente aprendendo ReactJs
 
-📃Você pode entrar em contato comigo através do meu e-mail: **clepsonfonseca@gmail.com**
+📃 **meu e-mail:** clepsonfonseca@gmail.com
 
-🌎Encontre-me no LinkedIn: https://www.linkedin.com/in/clepson-fonseca-8b2323184/
+🌎 **LinkedIn:** https://www.linkedin.com/in/clepson-fonseca-8b2323184/
 
 <hr>
 
@@ -28,7 +28,8 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clepsonfonseca)](https://github.com/clepsonfonseca/github-readme-stats)      ![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clepsonfonseca)](https://github.com/clepsonfonseca/github-readme-stats)     
+![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
 
 
 

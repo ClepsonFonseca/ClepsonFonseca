@@ -10,7 +10,7 @@
 
 📃 **meu e-mail:** clepsonfonseca@gmail.com
 
-🌎 **LinkedIn:** https://www.linkedin.com/in/clepson-fonseca-8b2323184/
+🌎 **LinkedIn:** https://www.linkedin.com/in/clepson-fonseca/
 
 <hr>
 

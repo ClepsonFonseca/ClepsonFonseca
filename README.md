@@ -1,7 +1,5 @@
 ## Olá sou Clepson Fonseca 👋
 
-<h1 align="center">Clepson Fonseca!</h1>
-
 🥇 Graduado em Gestão de Tecnologia da Informação 🇧🇷
 
 📃 **meu e-mail:** clepsonfonseca@gmail.com

@@ -4,10 +4,6 @@
 
 🥇 Graduado em Gestão de Tecnologia da Informação 🇧🇷
 
-📱 Estou participando do programa de bolsas do **Hiring Coders #2 da VTEX | Gama Academy**
-
-⏳ Atualmente aprendendo ReactJs
-
 📃 **meu e-mail:** clepsonfonseca@gmail.com
 
 🌎 **LinkedIn:** https://www.linkedin.com/in/clepson-fonseca/

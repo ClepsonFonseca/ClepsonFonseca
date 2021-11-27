@@ -21,7 +21,9 @@
 </p>
 
 <hr>
- 
+
+ ![Snake animation](https://github.com/clepsonfonseca/clepsonfonseca/blob/output/github-contribution-grid-snake.svg)
+  
 ![Clepson Fonseca GitHub](https://github-readme-stats.vercel.app/api?username=clepsonfonseca&theme=algolia&show_icons=true)
 
 
